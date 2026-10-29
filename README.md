@@ -16,7 +16,8 @@ Simulasi HP iPhone untuk AU dari sudut pandang Cayra. Satu halaman web, tanpa fr
 
 ## Mengganti foto
 Timpa file di `assets/` dengan foto baru **bernama sama** (.jpg).
-`assets/akun/` = foto profil & story akun · `assets/cayra/` = postingan Cay.Ra_ · `assets/timeline/` = postingan akun lain · `assets/wallpaper-layar-kunci.jpg` = wallpaper layar kunci · `assets/wallpaper-layar-utama.jpg` = wallpaper layar aplikasi
+`akun/` = foto profil & story akun · `cayra/` = postingan Cay.Ra_ · 
+`timeline/` = postingan akun lain · `wallpaper-layar-kunci.jpg` = wallpaper layar kunci · `wallpaper-layar-utama.jpg` = wallpaper layar aplikasi
 
 ## Mengubah isi chat / DM / komentar / X
 Buka `index.html`, tekan Ctrl+F:
